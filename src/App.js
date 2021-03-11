@@ -68,7 +68,7 @@ export default class App extends React.Component {
         <div>
         <ButtonAppBar pageLogin={this.changeLoginPage} pageInfo={this.changeInfoPage} ></ButtonAppBar>
         <PAGE page={this.state.page} user={this.changeUserPage}/>
-        {/*  aqui va el pie  */}
+        {/*  aqui va el  pie  */}
         <div>
          
         </div>
